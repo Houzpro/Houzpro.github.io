@@ -1,0 +1,132 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 750px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin: 65px auto 65px 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 369px;
+  background-image: url("images/Apple-iPhone-X_1920x1080.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 369px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-layout-cell-3 {
+  min-height: 387px;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 315px;
+  background-image: url("images/abc596c7e247082412c063a9db8ccf4525b0c024f463eb2876e16c83125d8f43d3ec02834ab90858fef254b38b2286c1adfab28e718e1e5b14b978_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 315px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 315px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 233px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1780px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 315px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
